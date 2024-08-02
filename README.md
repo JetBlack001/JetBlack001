@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JetBlack001
 - 👀 I’m interested in coding with HTML
 - 🌱 I’m currently learning all about IT
-- 💞️ I’m looking to collaborate on projects for Winte
+- 💞️ I’m Very interested in Game Development
 - ⚡ Fun fact: I love to watch Doctor Who
 
 <!---
